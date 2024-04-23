@@ -1,0 +1,30 @@
+1 - we downloaded SQLite and odbc to open data file and access server to make CURD operations, enable live updates
+
+2 - open data with odbc
+
+3 - modify data with sqlite (change tweets_id) to text
+
+4 - connect data to powerBi
+
+5 - drop columns using powerQuery (airline_sentiment_gold, negativereason_gold, tweet_coord) too many null values
+
+6 - we cleanded column (tweet_Created) removed (-0800) from it, to change it to clear date
+	using split by location from 0 to 19 
+
+7 - we created two columns after splitting (tweet_created1, tweet_created2), we will drop column which contain (-0800) only and keep the another one and rename it
+
+8 - load data!
+
+note: you can check this steps at query editor
+
+
+
+queries to check curd operations:
+
+INSERT into Tweets
+(tweet_id, airline_sentiment, airline_sentiment_confidence, negativereason, negativereason_confidence, airline,
+airline_sentiment_gold, name, negativereason_gold, retweet_count, text, tweet_coord, tweet_created, tweet_location, user_timezone)
+VALUES("1","sdfsdf",545,"fsdfsdf", 44, "asdasdas","asdasd","wessam","asd",65,"wer","sdf","qwe","asd","qwe");
+
+
+DELETE from Tweets where tweet_id = "1";
