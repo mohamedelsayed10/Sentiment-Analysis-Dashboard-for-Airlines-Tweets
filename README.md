@@ -1,7 +1,8 @@
 # Sentiment Analysis Dashboard for Airlines Tweets
 
-![Dashboard Screen 1](![image](https://github.com/mohamedelsayed10/Sentiment-Analysis-Dashboard-for-Airlines-Tweets/assets/87568101/3d4034f6-829e-4896-8b7c-db410694c988)
-![Dashboard Screen 2](![image](https://github.com/mohamedelsayed10/Sentiment-Analysis-Dashboard-for-Airlines-Tweets/assets/87568101/0e5c577f-3436-4593-949d-e04f76fc81de)
+
+![Dashboard 1](https://github.com/mohamedelsayed10/Sentiment-Analysis-Dashboard-for-Airlines-Tweets/assets/87568101/0e5c577f-3436-4593-949d-e04f76fc81de)
+![Dashboard 2](https://github.com/mohamedelsayed10/Sentiment-Analysis-Dashboard-for-Airlines-Tweets/assets/87568101/3d4034f6-829e-4896-8b7c-db410694c988)
 
 ## Overview
 
